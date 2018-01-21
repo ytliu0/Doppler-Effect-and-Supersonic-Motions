@@ -9,4 +9,5 @@ a constant velocity and in circular motion. The circular motion is interesting a
 have seen a demonstration of the resulting Doppler effect from a twirling buzzer. When the 
 speed of the motion is faster than the wave speed c, a V-shaped row wave is produced if 
 the source is moving with a constant velocity. The shock structure is more complicated in 
-circular motion. 
+circular motion. The mathematical detail and animation setup is explained in the pdf file 
+Doppler.pdf in the doc/ directory.
